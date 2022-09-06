@@ -1,0 +1,14 @@
+C:\Users\fabri\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+C:\Users\fabri\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+C:\Users\fabri\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+C:\Users\fabri\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+C:\Users\fabri\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+C:\Users\fabri\source\repos\Worker\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
+C:\Users\fabri\source\repos\Worker\Worker\obj\Debug\netcoreapp3.1\Worker.genruntimeconfig.cache
